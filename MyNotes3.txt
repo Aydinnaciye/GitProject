@@ -3,12 +3,10 @@ Local Code
 
 Remote Code
 
-<<<<<<< HEAD
+
 Hi How are you
 
 
-=======
 
 
 Hey I am good
->>>>>>> 22f4cd9331acc1cb383cc79d67e997af2bedb859
